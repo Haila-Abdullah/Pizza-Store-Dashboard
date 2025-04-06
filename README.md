@@ -43,7 +43,7 @@ The final dashboard provides a clear snapshot of sales performance through:
 
 ## 🖼 Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](./Dashboard%20Screenshot.png)
 
 ---
 
